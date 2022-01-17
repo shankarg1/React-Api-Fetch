@@ -7,4 +7,4 @@ just run
 npm i axios
 ```
 
- then it is ready to go >>>
+ then it is ready to go >>> 🚀🚀
